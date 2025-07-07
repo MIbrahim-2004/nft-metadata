@@ -1,0 +1,15 @@
+{
+  "name": "Test NFT",
+  "description": "This NFT was minted on ZigChain and sent to Injective.",
+  "image": "https://ipfs.io/ipfs/Qm...abc",
+  "attributes": [
+    {
+      "trait_type": "Origin",
+      "value": "ZigChain"
+    },
+    {
+      "trait_type": "Use Case",
+      "value": "ICS-721"
+    }
+  ]
+}
