@@ -1,7 +1,7 @@
 {
   "name": "Test NFT",
   "description": "This NFT was minted on ZigChain and sent to Injective.",
-  "image": "https://ipfs.io/ipfs/Qm...abc",
+  "image": "https://raw.githubusercontent.com/MIbrahim-2004/nft-metadata/refs/heads/main/image-nft.txt",
   "attributes": [
     {
       "trait_type": "Origin",
